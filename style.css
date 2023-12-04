@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    block-size: auto;
+}
+.titulo{
+    text-align: center;
+}
+section{
+    text-align: center;
+    padding: 200px;
+}
+
+input{
+    text-align: center;
+    font-size: 3rem;
+    border: 2px solid gray;
+    background-color: #eee;
+}
+div{
+    font-size: 6rem;
+}   
